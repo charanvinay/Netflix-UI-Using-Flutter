@@ -1,16 +1,8 @@
-# netflix
+# Netflix Homepage UI
 
-A new Flutter project.
+This project contains landing page of Netflix
 
-## Getting Started
+## App images
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![netflix1](https://user-images.githubusercontent.com/71263421/127166885-68f649c7-ffd7-4d2f-a82b-fdbf926ae660.jpg)
+![netflix2](https://user-images.githubusercontent.com/71263421/127166953-d03c95d2-1e70-4fea-88ea-374858ecaa64.jpg)
